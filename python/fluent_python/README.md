@@ -8,7 +8,3 @@ Python examples from the book by Ramalho *Fluent Python, 2nd Edition*
 * [Ch.6 - Object references](ch6_object_references.ipynb)
 * [Ch.7 - Functions as first-class objects](ch7_functions.ipynb)
 * [Ch.11 - A Pythonic Object](ch11_pythonic_object.ipynb)
-
-## Python packages for software development
-* [pytest](https://docs.pytest.org/en/stable/), testing framework for applications and libraries
-* [Mypy](https://mypy-lang.org/index.html), static type checker for Python
