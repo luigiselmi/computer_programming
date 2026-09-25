@@ -2,7 +2,7 @@ Python
 =============
 Python examples 
 
-* [Fluent Pythonl](fluent_python)
+* [Fluent Python](fluent_python)
 * [Modules and packages](modules)
 
 ## Python packages for software development
