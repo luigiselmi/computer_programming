@@ -8,3 +8,4 @@ Python examples
 ## Python packages for software development
 * [pytest](https://docs.pytest.org/en/stable/), testing framework for applications and libraries
 * [Mypy](https://mypy-lang.org/index.html), static type checker for Python
+* [uv](https://docs.astral.sh/uv/), an extremely fast Python package and project manager, written in Rust.
